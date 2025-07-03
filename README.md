@@ -34,9 +34,7 @@ Considering that amFOSS is at its heart an open-source club, you must use a Linu
 Clearly communicate your thought process, challenges faced and progress to the mentors assigned to you during Praveshan. The ability to communicate effectively is essential for fostering collaboration and understanding.
 
 #### ***FAQs***
-**Q: What if I decide to not join the Amritapuri campus after getting in through the S0 pipeline.**
 
-A: As amFOSS currently only operates in Amritapuri, your membership will be revoked.
 
 **Q: How are participants evaluated during Praveshan?**
 

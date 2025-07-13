@@ -8,8 +8,8 @@ Greetings, fellow tech enthusiasts. Praveshan is the first step that you need to
 The goal of these tasks is not to alienate those without a background in computer science but to get yourself acquainted with the process of acquiring skills on your own, all tasks are designed in a way so as to promote active learning. You could take a look at the previous-year’s challenges to get a rough idea of the process, but of course, do not expect the same questions.
 # Pipelines
 There are 2 main pipelines to enter amFOSS, specifically:
-- [S1](#ii.-for-freshers-s1) (for freshers)
-- [S2+](#iii.-for-others-s2-and-above) 
+- [S1](#i.-for-freshers-s1) (for freshers)
+- [S2+](#ii.-for-others-s2-and-above) 
 
 Detailed below are a few of the guidelines and eligibility criteria that you should go through before applying to a certain pipeline.
 # Eligibility
@@ -51,11 +51,14 @@ A: The timelines are specific to each pipeline and hence will be updated on thei
 # I. For Freshers (S1):
 This is the first pipeline to join amFOSS, which will commence after the start of the college term. Interested students are expected to undertake a series of designated tasks (that consist of both technical and non-technical tasks). Evaluation will be conducted based on the completion of these tasks, followed by an interview.
 
-Status: **Coming Soon**
+Fill out the following form to register: [https://forms.gle/286tMvE75GrozoXs9](https://forms.gle/286tMvE75GrozoXs9)
+
+Status: **Open**
 
 
 # II. For Others (S2 and above):
 This is the second pipeline for joining amFOSS. Interested students will have to complete all designated tasks. Evaluation will be conducted based on the completion of these tasks, followed by an interview.
 
-Status: **Closed**
+Fill out the following form to register: [https://forms.gle/286tMvE75GrozoXs9](https://forms.gle/286tMvE75GrozoXs9)
 
+Status: **Open**

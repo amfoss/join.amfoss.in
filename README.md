@@ -51,14 +51,10 @@ A: The timelines are specific to each pipeline and hence will be updated on thei
 # I. For Freshers (S1):
 This is the first pipeline to join amFOSS, which will commence after the start of the college term. Interested students are expected to undertake a series of designated tasks (that consist of both technical and non-technical tasks). Evaluation will be conducted based on the completion of these tasks, followed by an interview.
 
-Fill out the following form to register: [https://forms.gle/286tMvE75GrozoXs9](https://forms.gle/286tMvE75GrozoXs9)
-
-Status: **Open**
+Status: **Closed**
 
 
 # II. For Others (S2 and above):
 This is the second pipeline for joining amFOSS. Interested students will have to complete all designated tasks. Evaluation will be conducted based on the completion of these tasks, followed by an interview.
 
-Fill out the following form to register: [https://forms.gle/286tMvE75GrozoXs9](https://forms.gle/286tMvE75GrozoXs9)
-
-Status: **Open**
+Status: **Closed**
